@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Encargo 1</title>
+      <link>https://pbvh.github.io/docs/post2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://pbvh.github.io/docs/post2/</guid>
+      <description>Combinaciones de mobiliario híbrido y referentes.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://pbvh.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -32,15 +41,6 @@
       
       <guid>https://pbvh.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 1</title>
-      <link>https://pbvh.github.io/docs/post2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://pbvh.github.io/docs/post2/</guid>
-      <description>Combinaciones de mobiliario híbrido y referentes.</description>
     </item>
     
   </channel>
