@@ -26,12 +26,30 @@
     </item>
     
     <item>
-      <title>Entrega 1 (Grupo)</title>
+      <title>Entrega 1.2 </title>
       <link>https://pbvh.github.io/docs/post3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://pbvh.github.io/docs/post3/</guid>
-      <description>En esta sección del sitio presentaré la colección MAIP.</description>
+      <description>Encargo grupal, colección MAIP.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2.2</title>
+      <link>https://pbvh.github.io/docs/post4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://pbvh.github.io/docs/post4/</guid>
+      <description>Tutoriales de webcursos.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2.3</title>
+      <link>https://pbvh.github.io/docs/post5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://pbvh.github.io/docs/post5/</guid>
+      <description>Fotografía + Origami.</description>
     </item>
     
     <item>
@@ -50,24 +68,6 @@
       
       <guid>https://pbvh.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 2.2</title>
-      <link>https://pbvh.github.io/docs/post5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://pbvh.github.io/docs/post5/</guid>
-      <description>En este post se muestran algunos de los pasos del proceso de los ejercicios de práctira realizados en base a los tutoriales de webcursos.</description>
-    </item>
-    
-    <item>
-      <title>Experimento Moldes</title>
-      <link>https://pbvh.github.io/docs/post6/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://pbvh.github.io/docs/post6/</guid>
-      <description>En este post se muestran algunos de los pasos del proceso de los ejercicios de práctira realizados en base a los tutoriales de webcursos.</description>
     </item>
     
   </channel>
